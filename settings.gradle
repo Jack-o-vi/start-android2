@@ -1,1 +1,1 @@
-include ':app', ':module01_handler_simple_message', ':module02_handler_avd_message'
+include ':app', ':module01_handler_simple_message', ':module02_handler_avd_message', ':module03_service_stop'
